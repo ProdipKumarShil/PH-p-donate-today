@@ -84,3 +84,32 @@
     border-right: none;
     margin-bottom: 20px;
 }
+/* our donate plan section */
+.our-donate-plan-section{
+    text-align: center;
+}
+.donate-plan-container{
+    display: flex;
+    gap: 20px;
+    margin: 20px 250px 20px 250px;
+}
+.donate-plan{
+    text-align: left;
+    border-radius: 5px;
+    padding: 50px 0 50px 20px;
+}
+.donate-plan .donate-heading{
+    margin: 20px 0 20px 0;
+}
+.col-1{
+    background-color: rgb(225, 255, 245);
+}
+.col-2{
+    background-color: #ffe6e6;
+}
+.col-3{
+    background-color: rgb(255, 244, 228);
+}
+.donate-plan-description{
+    color: #aeaeae;
+}
